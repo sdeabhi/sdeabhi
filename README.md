@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Prajapati</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [sdeabhi.netlify.com](sdeabhi.netlify.com)
+- 👨‍💻 All of my projects are available at [sdeabhi.netlify.app](sdeabhi.netlify.app)
 
 - 💬 Ask me about **MERN Development**
 
